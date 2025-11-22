@@ -13,6 +13,18 @@ Intercessions are stored as individual markdown files in the root directory:
 - **Dated intercessions**: Use `yyyy-mm-dd.md` format (e.g., `2025-07-27.md`, `2025-09-21.md`)
 - **Undated intercessions**: Use theme-based slugs (e.g., `holy-communion-service.md`, `generous-god.md`, `a-kings-heart.md`)
 
+## Adding New Intercessions
+
+**IMPORTANT:** Whenever you create a new intercession file, you MUST also update the README.md file:
+
+1. Add a new entry to the intercessions list under the appropriate year
+2. Use the format: `[DD Month - Title/Theme](filename.md)`
+   - Example: `[23 November - The Gospel in Genesis](2025-11-23.md)`
+3. Keep the list in chronological order (earliest to latest)
+4. Make sure the link text includes both the date and the theme/title for easy navigation
+
+This ensures the repository remains well-organized and visitors can easily find prayers by theme or date.
+
 ## Intercession File Format
 
 Each intercession file follows a consistent markdown structure:
