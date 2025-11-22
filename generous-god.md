@@ -1,0 +1,85 @@
+# Generous God
+
+**Date:**
+
+**Bible Reading:**
+
+---
+
+Let us pray.
+
+**Generous God...**
+You are the giver of *every* good gift, and we thank you for your abundance.
+You have poured out grace upon grace—
+not so we can hold tightly to what we have...
+but so we might live open-handed lives.
+
+Shape us into people who give freely—
+of our time, our resources, and ourselves—
+not out of guilt or pressure...
+but from joyful gratitude for all you've given us.
+
+We pray for your Church, here and around the world.
+Help us reflect your generosity in all we do—
+not just in offerings,
+but in how we serve one another,
+how we support our communities,
+and how we stand with those in need.
+
+Let our giving sow seeds of life...
+of justice...
+and of hope.
+
+We pray for the young people—
+especially those facing pressure, confusion, or loneliness.
+For those navigating questions about identity, friendship, the future, and faith...
+Give them safe spaces, trusted voices, and the deep assurance that they are loved—
+just as they are.
+
+Help us as a church to listen well,
+to walk with them,
+and to reflect your kindness and truth.
+
+We lift up those who are struggling—
+financially, emotionally, or spiritually.
+For those burdened by debt...
+those anxious about tomorrow...
+those who feel they have nothing left to give—
+may they experience your provision... and your peace.
+
+And for those of us who can—
+prompt us to be part of the answer to their prayers.
+
+We pray for those who are ill—
+in body, mind, or spirit.
+For those waiting on diagnoses or treatment...
+for those managing pain or feeling isolated...
+Bring healing where it's possible, peace where it's needed,
+and your presence in every moment.
+
+And may we, your people, be quick to offer support and care.
+
+And finally, we pray for ourselves.
+Help us grow in grace,
+so that our giving is always rooted in *love*.
+May we never forget your greatest gift—
+yourself, given for us in Christ.
+
+**Shape our giving to reflect yours—**
+*rooted in faith... guided by wisdom... and full of joy.*
+
+Let us join together in the words of the Lord's Prayer, in whatever form or language you feel most comfortable with.
+
+Pai nosso que estás nos céus,
+santificado seja o teu nome,
+venha o teu reino,
+seja feita a tua vontade,
+assim na terra como no céu.
+
+O pão nosso de cada dia dá-nos hoje,
+e perdoa-nos as nossas dívidas,
+assim como nós também perdoamos aos nossos devedores.
+
+E não nos deixes cair em tentação,
+mas livra-nos do mal,
+pois teu é o reino, o poder e a glória para sempre. Amém.

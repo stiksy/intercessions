@@ -1,0 +1,92 @@
+# A King's Heart
+
+**Date:**
+
+**Bible Reading:** 2 Samuel 6
+
+---
+
+Let us pray.
+
+God of glory and presence...
+We come before you today—
+not just with words,
+but with hearts that long to know you...
+to honour you...
+to delight in you.
+
+Just as David danced before the ark,
+help us to worship you with joy that's not held back...
+with faith that's not performative...
+and with lives that are fully open to your Spirit.
+
+Lord, in your mercy...
+hear our prayer.
+
+We pray for your Church—across the world and right here among us.
+Help us not to lose sight of why we gather—
+not just out of habit,
+but to encounter you... together.
+
+Where there is routine... bring renewal.
+Where there is pride... bring humility.
+Where there is fear... bring freedom and trust.
+
+May we always remember—
+you look at our hearts.
+
+Lord, in your mercy...
+hear our prayer.
+
+We lift up the young people in our church and our community.
+In a world of noise and pressure—
+help them hear your voice.
+
+For those figuring out who they are,
+for those struggling to belong,
+for those carrying hidden burdens...
+
+May they know they are seen, valued, and deeply loved.
+
+Lord, in your mercy...
+hear our prayer.
+
+We pray for all who are struggling—
+those living with illness,
+those grieving,
+those facing mental health battles or financial pressure.
+
+You are close to the broken-hearted...
+so draw near.
+
+Help us to be people of presence and compassion for those around us.
+
+Lord, in your mercy...
+hear our prayer.
+
+And finally, Lord, we pray for our hearts to be like David's—
+not perfect, but honest...
+not proud, but open...
+not self-focused, but full of worship.
+
+Keep us rooted in you,
+ready to respond when you move,
+and willing to lead with love—whatever the role we're in.
+
+We bring all these prayers in the name of Jesus,
+as we say together the prayer He taught us. Feel free to do so in whatever language or version you're most comfortable with.
+
+Our Father in heaven,
+hallowed be your name,
+your kingdom come,
+your will be done,
+on earth as in heaven.
+Give us today our daily bread.
+Forgive us our sins
+as we forgive those who sin against us.
+Lead us not into temptation
+but deliver us from evil.
+For the kingdom, the power,
+and the glory are yours
+now and forever.
+Amen.
