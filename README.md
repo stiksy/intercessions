@@ -1,10 +1,20 @@
 # Intercessions for Sunday Services
 
+<p align="center">
+  <img src="https://www.christchurchchineham.org.uk/sites/christchurchchineham.org.uk/themes/custom/ccc_theme/logo.png" alt="Christ Church Chineham" width="300">
+</p>
+
 This repository contains intercession prayers written for Sunday services at [Christ Church Chineham](https://www.christchurchchineham.org.uk/) (CCC), an ecumenical church in Basingstoke, UK.
 
 ## About Christ Church Chineham
 
 Christ Church Chineham is a vibrant ecumenical community bringing together members from Anglican, Baptist, Methodist, and United Reformed Church traditions. The church serves both its congregation and the wider Chineham community through worship, fellowship, and outreach.
+
+### Join Us for Worship
+
+- **Sunday Services:** Every Sunday at 10:00 AM
+- **Watch Online:** Join us live or catch up on past services on our [YouTube channel](https://www.youtube.com/c/ChristChurchChineham)
+- **Location:** Reading Road, Chineham, Basingstoke, Hampshire, RG24 8LT
 
 ## About These Intercessions
 
