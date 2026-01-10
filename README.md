@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Intercessions for Sunday Services
 
 <p align="center">

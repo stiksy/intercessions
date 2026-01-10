@@ -26,9 +26,9 @@ Intercessions are stored as individual markdown files in the root directory:
 5. Ensure both README.md and index.md stay synchronized with identical intercession listings
 
 **Why two files?**
-- `README.md` is displayed on the GitHub repository page
-- `index.md` is the homepage for the GitHub Pages site at https://stiksy.github.io/intercessions/
-- Both files must have identical content to ensure consistency across GitHub and the web
+- `README.md` is displayed on the GitHub repository page (no Jekyll front matter needed)
+- `index.md` is the homepage for the GitHub Pages site (requires Jekyll front matter)
+- Both files must have identical content except for the front matter in index.md
 
 This ensures the repository remains well-organized and visitors can easily find prayers by theme or date, whether viewing on GitHub or the published website.
 
