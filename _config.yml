@@ -9,6 +9,11 @@ exclude:
   - CLAUDE.md
   - .git
   - .github
+  - README.md
+
+# Header pages (only show these in navigation)
+header_pages:
+  - index.md
 
 # Markdown settings
 markdown: kramdown
