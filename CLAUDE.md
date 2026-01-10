@@ -44,13 +44,14 @@ Each intercession file follows a consistent markdown structure:
 ## Writing Style and Tone
 
 - Use **poetic line breaks** and thoughtful pacing with ellipses (...) to create natural pauses for reflection
-- Keep language **accessible yet reverent**—avoid overly formal or archaic expressions
+- Keep language **accessible yet reverent** - avoid overly formal or archaic expressions
 - Balance **contemporary concerns with timeless themes** of faith
 - Use **concrete imagery** that connects biblical narratives to present-day life
 - Prayers should feel **personal yet communal**, speaking to shared experiences
 - **Always capitalize pronouns referring to God** (You, Your, Yours) throughout the prayer to maintain reverence
-- **Address God directly** throughout the prayer—avoid explaining things to the congregation or making theological points. The prayer is a conversation with God, not a teaching moment
-- **Be careful with light/darkness imagery** when praying for those in need—avoid language that suggests people experiencing hardship are spiritually "in darkness." Focus on God's compassion and practical service instead
+- **Address God directly** throughout the prayer - avoid explaining things to the congregation or making theological points. The prayer is a conversation with God, not a teaching moment
+- **Be careful with light/darkness imagery** when praying for those in need - avoid language that suggests people experiencing hardship are spiritually "in darkness." Focus on God's compassion and practical service instead
+- **Use single dashes only** - always use the standard hyphen-minus character (-). Never use em dashes or en dashes
 
 ## Common Structural Elements
 
@@ -62,7 +63,7 @@ Each intercession file follows a consistent markdown structure:
 ### Main Sections (typically 4-6)
 Each section should cover one theme:
 1. **The Church** (local congregation and global Church)
-2. **Suffering and illness** (body, mind, spirit—including specific people when appropriate)
+2. **Suffering and illness** (body, mind, spirit - including specific people when appropriate)
 3. **Young people and families**
 4. **Community needs** (grief, loneliness, financial struggles)
 5. **Church leadership and decisions** (Council, events, finances)
@@ -90,7 +91,7 @@ When church leadership provides updates:
 - **Keep it concise and prayerful** rather than explanatory or report-like
 - **Make it generic** while still acknowledging the reality (e.g., avoid mentioning specific dollar amounts or excessive detail)
 - **Focus on the spiritual aspect**: decisions → wisdom; finances → provision and stewardship; events → joy and encounters with God
-- **Focus on immediate events only** (within 2 weeks)—distant events don't need to be mentioned
+- **Focus on immediate events only** (within 2 weeks) - distant events don't need to be mentioned
 - **Avoid administrative details** like finding a treasurer, specific fundraising targets, etc.
 
 Example transformation:
