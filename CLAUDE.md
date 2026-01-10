@@ -48,6 +48,9 @@ Each intercession file follows a consistent markdown structure:
 - Balance **contemporary concerns with timeless themes** of faith
 - Use **concrete imagery** that connects biblical narratives to present-day life
 - Prayers should feel **personal yet communal**, speaking to shared experiences
+- **Always capitalize pronouns referring to God** (You, Your, Yours) throughout the prayer to maintain reverence
+- **Address God directly** throughout the prayer—avoid explaining things to the congregation or making theological points. The prayer is a conversation with God, not a teaching moment
+- **Be careful with light/darkness imagery** when praying for those in need—avoid language that suggests people experiencing hardship are spiritually "in darkness." Focus on God's compassion and practical service instead
 
 ## Common Structural Elements
 
@@ -87,17 +90,20 @@ When church leadership provides updates:
 - **Keep it concise and prayerful** rather than explanatory or report-like
 - **Make it generic** while still acknowledging the reality (e.g., avoid mentioning specific dollar amounts or excessive detail)
 - **Focus on the spiritual aspect**: decisions → wisdom; finances → provision and stewardship; events → joy and encounters with God
-- **Mention specific people by first name only** when appropriate (e.g., "Richard Turnbull", "Raymond Cole")
+- **Focus on immediate events only** (within 2 weeks)—distant events don't need to be mentioned
+- **Avoid administrative details** like finding a treasurer, specific fundraising targets, etc.
 
 Example transformation:
 - Too specific: "We need £50,000 for building repairs and have only £30,000 in savings"
 - Better: "We lift up the decisions being made about our finances, our mission, and the care of this place. Grant wisdom to those who lead, and guide us all in faithful stewardship."
 
-## Balancing Specific and Generic Prayers
+## Handling Prayer Lists and Names
 
-- **Start broadly**, then move to specific examples if relevant
-- **Example**: "We lift before you all who are suffering—in body, mind, or spirit..." (broad) "We pray especially for our former minister, Richard..." (specific)
-- This allows the congregation to hold their own concerns while also praying for named individuals
+- **Keep illness prayers generic and broad** rather than listing individual names from weekly prayer lists
+- **Use broad categories**: "those affected by flu and winter illnesses," "those awaiting, undergoing, or recovering from tests and treatment," "those supporting loved ones affected by health issues"
+- **Only mention specific individuals** when they are highlighted in church news for special reasons (e.g., milestone birthdays, specific pastoral situations being shared with the congregation)
+- The detailed prayer list is for the person leading the prayer to hold privately, not for verbatim inclusion in the written intercession
+- This keeps prayers universally applicable and spiritually focused rather than list-like
 
 ## Lord's Prayer Options
 
