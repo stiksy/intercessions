@@ -1,8 +1,8 @@
 title: Intercessions for Sunday Services
 description: Intercession prayers for Sunday services at Christ Church Chineham
 theme: minima
-baseurl: "/intercessions"
-url: "https://fernandoabcampos.github.io"
+baseurl: ""
+url: "https://stiksy.github.io/intercessions"
 
 # Exclude files from processing
 exclude:
