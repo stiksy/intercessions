@@ -31,6 +31,10 @@ Each intercession is crafted to connect biblical themes with contemporary concer
 
 ## Intercessions
 
+### 2026
+
+- [11 January - What Technology would God use?](2026-01-11.md)
+
 ### 2025
 
 - [9 February - Intercessions for Holy Communion Service](2025-02-09.md)
