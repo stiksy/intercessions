@@ -15,21 +15,34 @@ Intercessions are stored as individual markdown files in the root directory:
 
 ## Adding New Intercessions
 
-**IMPORTANT:** Whenever you create a new intercession file, you MUST also update the README.md file:
+**IMPORTANT:** Whenever you create a new intercession file, you MUST update BOTH the README.md AND index.md files:
 
-1. Add a new entry to the intercessions list under the appropriate year
-2. Use the format: `[DD Month - Title/Theme](filename.md)`
-   - Example: `[23 November - The Gospel in Genesis](2025-11-23.md)`
+1. Add a new entry to the intercessions list under the appropriate year in **both files**
+2. Use the format: `[DD Month - Title/Theme](filename.html)`
+   - Example: `[23 November - The Gospel in Genesis](2025-11-23.html)`
+   - Note: Always use `.html` extension in links (not `.md`) for proper GitHub Pages navigation
 3. Keep the list in chronological order (earliest to latest)
 4. Make sure the link text includes both the date and the theme/title for easy navigation
+5. Ensure both README.md and index.md stay synchronized with identical intercession listings
 
-This ensures the repository remains well-organized and visitors can easily find prayers by theme or date.
+**Why two files?**
+- `README.md` is displayed on the GitHub repository page
+- `index.md` is the homepage for the GitHub Pages site at https://stiksy.github.io/intercessions/
+- Both files must have identical content to ensure consistency across GitHub and the web
+
+This ensures the repository remains well-organized and visitors can easily find prayers by theme or date, whether viewing on GitHub or the published website.
 
 ## Intercession File Format
 
-Each intercession file follows a consistent markdown structure:
+Each intercession file follows a consistent markdown structure with Jekyll front matter:
 
 ```markdown
+---
+layout: default
+title: [Title/Theme]
+date: YYYY-MM-DD
+---
+
 # [Title/Theme]
 
 **Date:** [date or empty if not available]
@@ -40,6 +53,12 @@ Each intercession file follows a consistent markdown structure:
 
 [Prayer content including opening, petitions, and closing with Lord's Prayer]
 ```
+
+**Important notes about file format:**
+- Always include Jekyll front matter (the YAML block at the top between `---` markers)
+- The `layout: default` uses the minima theme for consistent styling on GitHub Pages
+- The `title` should match the heading below for consistency
+- The `date` should be in `YYYY-MM-DD` format for proper sorting and metadata
 
 ## Writing Style and Tone
 
@@ -141,3 +160,19 @@ pois teu é o reino, o poder e a glória para sempre. Amém.
 - **Community impact** (the church as a community center)
 - **Healing** for body, mind, and spirit
 - **Provision** for material and spiritual needs
+
+## GitHub Pages Setup
+
+This repository is published as a website using GitHub Pages with Jekyll:
+
+- **Website URL**: https://stiksy.github.io/intercessions/
+- **Theme**: Minima (clean, readable design)
+- **Automatic deployment**: GitHub Actions workflow builds and deploys on every push to main branch
+
+**Key files for GitHub Pages:**
+- `_config.yml` - Jekyll configuration (site title, theme, URL settings)
+- `.github/workflows/jekyll.yml` - Automated build and deployment workflow
+- `index.md` - Website homepage (mirrors README.md content)
+- `README.md` - GitHub repository page (also used for web with .html links)
+
+**Important:** When updating README.md or index.md, always keep them synchronized with identical content.
