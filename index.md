@@ -39,6 +39,7 @@ Each intercession is crafted to connect biblical themes with contemporary concer
 ### 2026
 
 - [11 January - What Technology would God use?](2026-01-11.html)
+- [22 February - The Faithful Investor: Treasure](2026-02-22.html)
 
 ### 2025
 
