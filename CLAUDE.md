@@ -71,6 +71,7 @@ date: YYYY-MM-DD
 - **Address God directly** throughout the prayer - avoid explaining things to the congregation or making theological points. The prayer is a conversation with God, not a teaching moment
 - **Be careful with light/darkness imagery** when praying for those in need - avoid language that suggests people experiencing hardship are spiritually "in darkness." Focus on God's compassion and practical service instead
 - **Use single dashes only** - always use the standard hyphen-minus character (-). Never use em dashes or en dashes
+- **Use trailing two spaces for line breaks** - in markdown, a single newline within a paragraph is ignored when rendered. To preserve poetic line breaks, add two spaces at the end of each line that should break (except the last line of a stanza, which is followed by a blank line). This applies to all prayer content lines within stanzas
 
 ## Common Structural Elements
 
