@@ -36,6 +36,7 @@ Each intercession is crafted to connect biblical themes with contemporary concer
 - [11 January - What Technology would God use?](2026-01-11.html)
 - [22 February - The Faithful Investor: Treasure](2026-02-22.html)
 - [3 May - A Psalm Prayer for Councillors](2026-05-03.html)
+- [7 June - Jesus Speaks Truth to Power](2026-06-07.html)
 
 ### 2025
 
